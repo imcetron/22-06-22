@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display-swap');
+
+.ContForm{
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+    padding: 20px 0;
+    
+}
+
+main{ 
+    width: 70%;
+    margin: auto;
+
+    overflow: hidden;
+    
+}
+@media (max-width: 1409px){
+    main{ 
+        width: 80%;
+       
+        
+    }   
+}   
+    @media (max-width: 1245px){
+        main{ 
+            width: 90%;
+           
+            
+        }       
+}   
+
+
